@@ -103,9 +103,9 @@ uzbek-sentiment-analysis/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Biloliddin Isomiddinov** — AI/ML Engineering Student
+**Biloliddin Isomiddinov** — AI/ML specialist
 
 [![GitHub](https://img.shields.io/badge/GitHub-Biloliddin177-black?logo=github)](https://github.com/Biloliddin177)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Biloliddin%20Isomiddinov-blue?logo=linkedin)](https://linkedin.com/in/biloliddin-isomiddinov)
